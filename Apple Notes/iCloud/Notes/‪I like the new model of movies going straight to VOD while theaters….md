@@ -1,0 +1,3 @@
+# ‪I like the new model of movies going straight to VOD while theaters…
+
+‪I like the new model of movies going straight to VOD while theaters are out of commission but for $20 I'd like the rental to be longer than 48hrs. I know they're trying to recoup their money but I've gladly paid the usual $12 movie price since birth so I can go see a movie again. I don't see myself doing that for another $20‬

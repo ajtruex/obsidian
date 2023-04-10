@@ -1,0 +1,13 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "datetime",
+      "id": "6d1f9364-41e3-4c68-a61f-abab61eba678",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

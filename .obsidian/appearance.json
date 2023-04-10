@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 17,
+  "theme": "moonstone",
+  "cssTheme": "",
+  "translucency": false,
+  "enabledCssSnippets": [],
+  "accentColor": "#7d5ced",
+  "showViewHeader": true,
+  "textFontFamily": "",
+  "interfaceFontFamily": "Inter"
+}

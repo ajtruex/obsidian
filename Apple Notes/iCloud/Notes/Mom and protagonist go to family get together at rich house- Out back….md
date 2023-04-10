@@ -1,0 +1,3 @@
+# Mom and protagonist go to family get together at rich house. Out back…
+
+Mom and protagonist go to family get together at rich house. Out back is a lake stream pond. Family member talks about protagonists mom behind her back so protagonist lashes out and say you don't talk about family like that. Then walks out back to tired swing to see too African men in a antique car the family keeps out back. Visual of woman crawling away with entrails hanging from here stomach. Nearly chopped in half. Man comes for the body of water attempting to reclaim his family's house for himself. Has to get through hippos in the water. Various other groups come to take over the house through out the movie. Protagonist is able to fight them off with help of family. 

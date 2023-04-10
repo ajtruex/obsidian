@@ -1,0 +1,131 @@
+{
+  "workspaces": {
+    "1-Main": {
+      "main": {
+        "id": "3f4bdeefce3194c2",
+        "type": "split",
+        "children": [
+          {
+            "id": "91c969aa8d83a10e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Addy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "73049587f8bb3f04",
+        "type": "split",
+        "children": [
+          {
+            "id": "800522f0448245c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "93a16a978ac751fb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4e3fb22b9684fe46",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b836ac8ed8b08d59",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "5d7b5bad69547405",
+        "type": "split",
+        "children": [
+          {
+            "id": "d0f6e607be1a0117",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8721803d08014fb",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "07a655a181eda7be",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Addy.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2cea25e916fe9b4c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Addy.md"
+                  }
+                }
+              },
+              {
+                "id": "fd725fdeca3086e7",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "91c969aa8d83a10e"
+    }
+  },
+  "active": "1-Main"
+}

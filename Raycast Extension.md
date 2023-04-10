@@ -1,0 +1,1 @@
+Raycast extension that searches your currently playing track in Genius and WhoSampled.com

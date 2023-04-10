@@ -1,0 +1,10 @@
+# Alfred Email
+
+## Alfred Email
+symmetry@CORE.com
+
+## Alfred License
+A3PLWwzezq0XzSQ85ZdsJN7VEsixRCSBppjO0nHWFy+B9fhYZL
+zJROqNuqzDaUwCHgEtCBAgVhYNQFuCgjmgnVenQf3D8NHpckGe
+v6Oi3JcYZQgU3KbLfrZee1u5g9yoMqR6akoBQHXJ4lL2IcREVS
+voPh7thM+rdMySutM6fNpEMNYg1HfHJxFVdh8P+hg41lYzML9G

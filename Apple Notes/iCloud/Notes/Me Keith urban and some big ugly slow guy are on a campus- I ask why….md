@@ -1,0 +1,3 @@
+# Me Keith urban and some big ugly slow guy are on a campus. I ask why…
+
+Me Keith urban and some big ugly slow guy are on a campus. I ask why guy is dressed like a cowboy and it's because a riot is breaking out in the near proximity. I then ask why he's bringing Keith urban to a riot and he says "he's an artist, he's tough" as we proceed to talk a man comes flying at big tall guy who I yell bro and dude at trying to get his attention. Finally I just say "punch to your right" and he does and knocks the guy out. I think look over and see a friend of mine, in a Keith urban jacket, beating Keith on the ground. I ask why the fuck is he beating up Keith urban to which he replies "he's an artist, he's tough"

@@ -1,0 +1,2 @@
+# Windows 10 Product Key
+TMKPN-D277K-RMTF3-XDP73-BG67T

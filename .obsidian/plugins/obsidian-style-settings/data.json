@@ -1,0 +1,16 @@
+{
+  "id@@colorblind_protan-deutan": false,
+  "id@@colorblind_tritan": false,
+  "o-theme-settings@@o-colorful-headings": false,
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@radius-s": 4,
+  "obsidian-prism-theme@@radius-m": 8,
+  "obsidian-prism-theme@@pt-font-alt-a": false,
+  "obsidian-prism-theme@@inline-title-size": 1.25,
+  "minimal-style@@row-lines": false,
+  "minimal-style@@col-lines": false,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@table-nowrap": false,
+  "minimal-style@@trim-cols": true
+}

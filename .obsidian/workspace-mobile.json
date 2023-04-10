@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "3f4bdeefce3194c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e2232b04a60d303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2771fd0249b07bc5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "29b9639f69c26c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Addy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09b58d010a5d044d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3b27e72518c0f816",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          }
+        }
+      },
+      {
+        "id": "a39bfee3e1a384ca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "afde93c88d8321cc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ca7f8c19ebf6fc88",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1aa316102085efc0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "07acad09bf2da380",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d8f48977c9000d54",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Addy.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8ce54023d5f7740f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Addy.md"
+          }
+        }
+      },
+      {
+        "id": "8edcb3ea0cdfc204",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-gallery:Gallery": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-rich-links:Rich Links": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "29b9639f69c26c92",
+  "lastOpenFiles": [
+    "Thoughts.canvas",
+    "ssh_host_rsa_key",
+    "Brain Dump.md",
+    "Home.canvas",
+    "Addy.md",
+    "Bookmarks/2023-02-15-bento.md",
+    "TODO.md",
+    "Specials Worth Watching.md",
+    "production encyclopedia.md",
+    "How to Get Startup Ideas.md",
+    "attachments/MacBook Pro 16_ - 1.png",
+    "attachments/DE256C7D-7E77-45DB-A785-0A63E1FA60F8.jpeg",
+    "attachments/Pasted image 20221221150821.png",
+    "Apple Notes/iCloud/Notes/List.md",
+    "Apple Notes/iCloud/Notes/Software dev web show.md"
+  ]
+}

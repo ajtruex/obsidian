@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "3f4bdeefce3194c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a411fde65d8c459",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8df4ffb16ab61e4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Addy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "765332269513fa49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain Dump.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b403dac2ff355468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73049587f8bb3f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "800522f0448245c0",
+        "type": "tabs",
+        "dimension": 74.19354838709677,
+        "children": [
+          {
+            "id": "93a16a978ac751fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "4e3fb22b9684fe46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "78b4131d3cef3e12",
+        "type": "tabs",
+        "dimension": 25.806451612903224,
+        "children": [
+          {
+            "id": "b836ac8ed8b08d59",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5d7b5bad69547405",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f6e607be1a0117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a655a181eda7be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Addy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "048218add9fb0c63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a569c8776374c5f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5eb3ed23f5c97eba",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab6214e6b12d18cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cea25e916fe9b4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Addy.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "afef8841e1bd8929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8721803d08014fb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-gallery:Gallery": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "a8df4ffb16ab61e4",
+  "lastOpenFiles": [
+    "TODO.md",
+    "Addy.md",
+    "Thoughts.canvas",
+    "Brain Dump.md",
+    "ssh_host_rsa_key",
+    "Raycast Extension.md",
+    "Metro Boomin'.md",
+    "production encyclopedia.md",
+    "Specials Worth Watching.md",
+    "How to Get Startup Ideas.md",
+    "Job and Resume Stuff.md",
+    "JavaScript to Know for React.md",
+    "Home.canvas",
+    "Untitled.canvas"
+  ]
+}

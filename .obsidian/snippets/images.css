@@ -1,0 +1,17 @@
+.markdown-preview-view img, .markdown-preview-view video {
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    max-height: 300px;
+    max-width: 550px;
+    outline: 0px solid var(--text-accent);
+  }
+
+.markdown-preview-view img:hover , .markdown-preview-view video:hover {
+    width: 200%;
+    height:200%;
+    max-width: min(200%, 80vw);
+    max-height: min(200%, 80vh);
+    outline: none;
+    cursor: zoom-in;
+  }

@@ -1,0 +1,1 @@
+I'm a digital designer with a focus on unique web experiences and products, preferably in the realm of music, culture and comedy. 
